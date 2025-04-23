@@ -104,7 +104,7 @@ export default function Home() {
                 </form>
               ) : (
                 <div className="text-[#0066FF] text-xl animate-fade-in">
-                  Thanks for joining! We'll be in touch soon.
+                  Thanks for joining! We will be in touch soon.
                 </div>
               )}
               {error && (
